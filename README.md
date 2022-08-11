@@ -1,5 +1,14 @@
-### Hi there 👋
+# Kenet Picado - @kenetpicado
 
+### Hi there 👋
+- I'm Kenet Picado, Telematics Engineer and Web Developer with experiencie in [Laravel Framework](https://laravel.com)
+- I'm from León, Nicaragua.
+- I’m available to collaborate on projects.
+- You can visit my website [kenetpicado.github.io](https://kenetpicado.github.io) to see some projects I've worked on.
+
+### Contact
+- kenetpicado1@gmail.com
+- +505 86006856 
 <!--
 **kenetpicado/kenetpicado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
