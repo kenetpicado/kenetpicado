@@ -1,5 +1,11 @@
 # Kenet Picado - @kenetpicado
 
+[![committers.top badge](https://user-badge.committers.top/nicaragua/kenetpicado.svg)](https://user-badge.committers.top/nicaragua/kenetpicado)
+
+[![committers.top badge](https://user-badge.committers.top/nicaragua_public/kenetpicado.svg)](https://user-badge.committers.top/nicaragua_public/kenetpicado)
+
+[![committers.top badge](https://user-badge.committers.top/nicaragua_private/kenetpicado.svg)](https://user-badge.committers.top/nicaragua_private/kenetpicado)
+
 ### Hi there 👋
 - I'm Kenet Picado, Telematics Engineer and Web Developer with experiencie in [Laravel](https://laravel.com)
 - I'm from León, Nicaragua.
