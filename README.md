@@ -3,7 +3,6 @@
 ### Hi there 👋
 - I'm Kenet Picado, Telematics Engineer and Web Developer with experiencie in [Laravel](https://laravel.com)
 - I'm from León, Nicaragua.
-- I have worked as a web developer at [Cashship](https://www.cashship.com/) and [ImplementHIT](https://www.implementhit.com/)
 - I’m available to collaborate on projects.
 - You can visit my website [kenetpicado.github.io](https://kenetpicado.github.io) to see some projects I've worked on.
 
