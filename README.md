@@ -1,10 +1,6 @@
 # Kenet Picado - @kenetpicado
 
-### Hi there 👋
-- I'm Kenet Picado, Telematics Engineer and Web Developer with experiencie in [Laravel](https://laravel.com)
-- I'm from León, Nicaragua.
-- I’m available to collaborate on projects.
-- You can visit my website [kenetpicado.github.io](https://kenetpicado.github.io) to see some projects I've worked on.
+- Telematics Engineer and Web Developer with experiencie in [Laravel](https://laravel.com)
 
 [![committers.top badge](https://user-badge.committers.top/nicaragua/kenetpicado.svg)](https://user-badge.committers.top/nicaragua/kenetpicado)
 
