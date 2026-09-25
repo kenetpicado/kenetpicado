@@ -1,4 +1,4 @@
-# Hi there, I'm Kenet Picado 👋
+## Hi there, I'm Kenet Picado 👋
 
 ### **Senior Full Stack Developer & Telematics Engineer**
 With **5+ years of experience** building scalable web applications, RESTful APIs, automated integrations, and cloud infrastructure. Specialized in **Laravel, Node.js/Express, Vue.js, and AI-powered solutions**.
@@ -19,7 +19,7 @@ I have engineered, deployed, and maintained production-grade software solutions 
 - 🧾 **Invoicing & Billing:** Robust billing engines tailored for business compliance and financial workflows.
 - 🤖 **AI-Driven Automation:** Conversational AI WhatsApp chatbots for automated workflows and customer service.
 
-## 🌐 Connect & Contact
+### 🌐 Connect & Contact
 
 - **LinkedIn:** [linkedin.com/in/kenetpicado](https://www.linkedin.com/in/kenetpicado/)
 - **Email:** [kenetpicado1@gmail.com](mailto:kenetpicado1@gmail.com)
