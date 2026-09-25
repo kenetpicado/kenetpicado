@@ -3,14 +3,14 @@
 ### **Senior Full Stack Developer & Telematics Engineer**
 With **5+ years of experience** building scalable web applications, RESTful APIs, automated integrations, and cloud infrastructure. Specialized in **Laravel, Node.js/Express, Vue.js, and AI-powered solutions**.
 
-## 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack & Expertise
 
 - **Backend & Core:** Laravel, PHP, Express.js, TypeScript, Node.js, REST APIs, Redis, MySQL
 - **Frontend & Modern UI:** Vue.js, Inertia.js, Tailwind CSS, JavaScript (ES6+)
 - **Integrations & AI:** Google APIs (Gmail, Calendar), WhatsApp AI Chatbots
 - **DevOps, Infrastructure & Tools:** Docker, Linux Server Administration, App Deployment, GitHub Actions, Git
 
-## 🚀 Key Industry Experience
+### 🚀 Key Industry Experience
 
 I have engineered, deployed, and maintained production-grade software solutions across several domains:
 
