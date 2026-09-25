@@ -1,4 +1,4 @@
-## Hi there, I'm Kenet Picado 👋
+### Hi there, I'm Kenet Picado 👋
 
 ### **Senior Full Stack Developer & Telematics Engineer**
 With **5+ years of experience** building scalable web applications, RESTful APIs, automated integrations, and cloud infrastructure. Specialized in **Laravel, Node.js/Express, Vue.js, and AI-powered solutions**.
